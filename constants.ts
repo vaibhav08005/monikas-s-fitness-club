@@ -12,7 +12,7 @@ export const DISCIPLINES: Discipline[] = [
     id: "01",
     title: "YOGA",
     description: "Specialized yoga sessions for flexibility, mindfulness, and women's wellness.",
-    image: "/images/yoga.png"
+    image: "./images/yoga.png"
   },
   {
     id: "02",
@@ -30,7 +30,7 @@ export const DISCIPLINES: Discipline[] = [
     id: "04",
     title: "CARDIO",
     description: "Heart-pumping sessions for stamina and fat loss.",
-    image: "/images/cardio.png"
+    image: "./images/cardio.png"
   },
   {
     id: "05",
